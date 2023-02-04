@@ -1,0 +1,20 @@
+{
+  "name": "cypress_caso-estudio-completo",
+  "version": "1.0.0",
+  "description": "E2E Testing Cypress Caso de Prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automatitation",
+    "cypress"
+  ],
+  "author": "liset",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.5.0"
+  }
+}
