@@ -1,1 +1,1 @@
-# cypress_testing
+# cypress-testing
